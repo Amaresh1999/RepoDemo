@@ -1,2 +1,2 @@
 # RepoDemo
-My first demo repository
+My first GitHub repository
